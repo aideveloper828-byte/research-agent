@@ -1,3 +1,4 @@
 .lab/
+.env
 run.log
 .DS_Store
