@@ -1,0 +1,33 @@
+# Podcast: The AI Finance Playbook for a $20M SaaS Company
+**Duration:** ~10 minutes
+**Topic:** How SaaS finance teams are using AI in 2026 — and what a new Dir. of Finance at a PropTech company should deploy first
+
+---
+
+**[Host A]:** Here's a stat that should make every finance leader sit up: only 14% of CFOs can point to clear, measurable ROI from their AI investments. Fourteen percent. And yet — the ones who can? They're pulling away from everyone else at an accelerating rate.
+
+**[Host B]:** That's from a recent RGP survey of 200 US finance chiefs, and it lines up with Gartner's finding that AI adoption in finance has basically flatlined at 59%. It jumped from 37% to 58% between 2023 and 2024, and then... just stopped. But here's the thing — that headline number hides the real story. The companies that are further along in their AI journey? Sixty-seven percent of them are more optimistic about AI than they were a year ago. The beginners are stuck. The leaders are accelerating. So if you're a finance leader at a $20M ARR SaaS company and you're wondering "is it too late to start?" — no. You're actually in the sweet spot. Most of your peers have tried something but haven't operationalized it. Coming in with a plan puts you in the top quartile almost by default.
+
+**[Host A]:** OK so where do you actually start? If you're walking into a $20M ARR property management SaaS company as the new Director of Finance, what's day one?
+
+**[Host B]:** AP automation. Hands down, it's the highest-ROI starting point. L.E.K. Consulting measured this directly — AP and AR tasks that used to take 3 hours now take 15 minutes with AI. That's a 92% reduction. Vic.ai customers are seeing 85% of invoices processed with zero human touch. And for property management specifically, this is the killer app — you've got high volumes of recurring vendor invoices, maintenance costs, utilities, HOA payments. Three vendors are purpose-built for this vertical: PredictAP for AI-powered GL coding, AvidXchange as the established market leader, and LeapAP specifically for property and community management companies.
+
+**[Host A]:** What about the monthly close? That's always the pain point everyone talks about.
+
+**[Host B]:** Right, and the tooling has gotten dramatically better for mid-market companies. The old answer was BlackLine, but at $150K to $500K a year, it's overkill for a $20M ARR company. The new answer is Numeric or FloQast. Numeric just won G2's "Fastest Implementation" and "Best Estimated ROI" awards for mid-market close management, and it's $30 per user per month. FloQast is more established — customers go live in 1.7 months versus 5 months for BlackLine, and they see positive ROI in 11 months versus 22. Both now have AI that does automated flux analysis, generates variance explanations from your GL data, and gives you predictive reconciliation alerts. At $20M ARR, start with Numeric to prove the concept fast. If you need deeper ERP integration with NetSuite or Sage Intacct, step up to FloQast at $30K to $80K a year.
+
+**[Host A]:** Here's something I didn't expect in the data — knowledge management is actually the number one AI use case in finance, ahead of AP. Forty-nine percent versus thirty-seven percent.
+
+**[Host B]:** That surprised me too. It means finance teams are using AI more for finding information and answering questions than for processing transactions. Think about it — a new Director of Finance walks in and needs to understand the revenue recognition policy, the close process, the vendor approval workflow, the board reporting cadence. All of that institutional knowledge lives in scattered docs, emails, and people's heads. AI as a research and knowledge assistant might be the most underrated use case. It's literally what we're doing right now.
+
+**[Host A]:** Let's talk about the PropTech angle specifically. Does the property management vertical change the playbook?
+
+**[Host B]:** Significantly. Sixteen point seven billion dollars poured into PropTech in 2025. And the capital isn't going to flashy consumer apps — it's gravitating toward platforms that control financial infrastructure. Vantaca just raised a $300 million growth round focused on centralizing payments, receivables, accounting, and compliance for community associations. They're claiming 60 to 70 percent operational cost reduction with AI agents handling AP, customer service, and budgeting autonomously. PwC is calling this trajectory "propOS" — the idea that property management platforms will become autonomous operating systems combining AI agents, digital twins, and generative AI. For someone at Opiniion, this is a two-sided insight: the AI you deploy for your internal finance operations could directly inform product strategy. Your finance function's tooling and your company's product roadmap might actually converge.
+
+**[Host A]:** So what should a finance leader at a $20M ARR company actually do with all of this?
+
+**[Host B]:** Six moves, in priority order. First week: sign up for Ramp's free tier for expense management — instant spend visibility, 85% automated reviews, zero cost. Do not pick Brex — Capital One bought them for $5.15 billion in January and the product roadmap is uncertain. Month one: deploy Numeric for close management. Month one to two: pilot PredictAP or LeapAP for property-management-specific AP automation. Quarter two: stand up AI-assisted FP&A with Datarails or Drivetrain. Quarter two to three: automate revenue recognition with Trullion, which starts at just $3K a year and handles both ASC 606 and ASC 842. And throughout: hire or upskill one AI-comfortable finance analyst. Gartner names AI talent as the single top near-term CFO challenge. One capable person operationalizes everything else on this list.
+
+**[Host A]:** Last thing — what's the most surprising or contrarian finding here?
+
+**[Host B]:** Two things. One: the traditional RevOps stack of Gong plus Clari costs $336K to $600K a year for 100 users. AI-native alternatives like Oliv.ai and Forecastio deliver comparable functionality for $30K to $80K total. That's a 10x cost difference that should make any mid-market company rethink their RevOps tools. And two: the reason most CFOs can't show AI ROI isn't that the tools don't work — it's that they didn't define clear before-and-after metrics. Only 14% can show ROI, but 97% of those who implemented AI claim tangible benefits. It's a measurement problem, not an effectiveness problem. The first thing you should do before deploying any AI tool? Write down the current number. Close takes 12 days. AP processing costs $X per invoice. DSO is Y days. Then measure again in 90 days. That's it. That's the whole secret to being in the 14% who can prove ROI.
