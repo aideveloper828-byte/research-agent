@@ -8,5 +8,5 @@
   Context: User wants finance to lead GTM strategy. Need frameworks and case studies.
 - [ ] AI in revenue recognition: ASC 606 automation deep dive — added 2026-04-02 — priority: medium
   Context: At $20M ARR, contract complexity grows. Trullion, Tabs, Stripe Rev Rec comparison needed.
-- [ ] PropTech competitive landscape: AppFolio, Buildium, RealPage, Entrata financial strategies — added 2026-04-02 — priority: high
-  Context: Competitor monitoring baseline needed before Monday rotation starts
+- [x] PropTech competitive landscape: AppFolio, Buildium, RealPage, Entrata financial strategies — completed 2026-04-04
+  Brief: briefs/2026-04-04-proptech-competitive-landscape.md
