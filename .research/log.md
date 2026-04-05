@@ -13,6 +13,19 @@
 - Current close timeline and rev rec process
 - Finance team headcount and budget for tooling
 
+## Session — 2026-04-05
+**Question:** Weekly synthesis — Week in Review covering April 2–5, 2026
+**Briefs produced:** briefs/2026-04-05-weekly-synthesis.md, podcasts/2026-04-05-weekly-synthesis.md
+**Key findings:**
+- BREAKING: Entrata launched 100+ embedded AI agents on March 24, 2026 (OXP Studio agentic system) — threat to Opiniion's resident experience layer escalated significantly
+- AppFolio 2026 Benchmark Report: AI-adopting PM firms project 31% portfolio growth vs. 12% for non-adopters (2.6x gap); 45% plan tech stack consolidation
+- SaaS metrics baseline established: NRR 101–104% median, CAC payback 20 months median, Rule of 40 >40 = 9.4x valuation vs. 3.5x
+- Finance AI stalled at 59%, only 14% of CFOs show ROI — 6–12 month window to build leadership moat
+**Follow-ups identified:**
+- Entrata CRM overlap analysis: most urgent action item elevated to Day 1
+- AppFolio Q1 2026 earnings April 23: watch for Realm-X scope expansion
+- Pull Opiniion's NRR, CAC payback, Rule of 40, Burn Multiple baselines immediately
+
 ## Session — 2026-04-04
 **Question:** PropTech competitive landscape baseline — AppFolio, Yardi, RealPage, Entrata financial strategies and positioning relative to Opiniion
 **Briefs produced:** briefs/2026-04-04-proptech-competitive-landscape.md, podcasts/2026-04-04-proptech-competitive-landscape.md
