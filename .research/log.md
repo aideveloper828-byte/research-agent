@@ -1,5 +1,23 @@
 # Research Log
 
+## Session — 2026-04-07
+**Question:** Monday Competitor Intelligence — AppFolio, Entrata, RealPage, Yardi, Buildium, Rent Manager, ResMan
+**Briefs produced:** briefs/2026-04-07-competitor-intelligence.md, podcasts/2026-04-07-competitor-intelligence.md
+**Key findings:**
+- Entrata agentic OXP (100+ AI agents, March 24) explicitly covers "resident operations" — highest-priority threat to Opiniion. ELI Call Analysis mirrors Opiniion's sentiment analysis function.
+- Entrata also announced Agora investment mgmt partnership (April 7) — broadening platform scope relentlessly
+- AppFolio FY2025 $951M (+20%); 2026 guidance $1.10–$1.12B; 45% of customers plan tech stack consolidation; Q1 earnings April 23 is critical watch date
+- RealPage DOJ settlement finalized (Federal Register Jan 2026); Buildium carries reputational shadow; compliance-cautious enterprise buyers are more open to alternatives
+- Rent Manager won Roots Management Group (38K manufactured housing units, April 7) — warm pipeline via existing integration partner relationship
+- Yardi Virtuoso live + Agent Marketplace coming; $18M founder AI education pledge signals conviction
+- PM software market: $6.53B in 2026, growing to $9.93B by 2031 at 8.74% CAGR; top 10 vendors = 68% of installs
+**Follow-ups identified:**
+- Entrata customer overlap audit: pull from CRM immediately (elevated again — now confirmed resident ops overlap)
+- Call Rent Manager partner team re: Roots Management Group this week
+- Watch AppFolio Q1 2026 earnings call April 23 for resident experience feature signals
+- Build cross-platform differentiation narrative vs. native platform AI (needed by Apr 14)
+- Draft one-page data governance statement for compliance-sensitive buyers (by Apr 30)
+
 ## Session — 2026-04-02
 **Question:** How are SaaS finance teams using AI in 2026?
 **Briefs produced:** briefs/2026-04-02-ai-in-saas-finance.md, podcasts/2026-04-02-ai-in-saas-finance.md
