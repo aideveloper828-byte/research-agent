@@ -28,6 +28,19 @@
 - **Seeking Alpha APPF coverage** — Good for investor-grade AppFolio financial analysis (note: sell-side bias)
 - **Yardi official newsroom (yardi.com/news)** — Primary source for Yardi announcements; limited financial disclosure (private)
 
+## Tier 1 — AI Finance Tools (added 2026-04-08)
+- **Datarails datarails.com/research** — Primary source for AI in finance survey data; 389-leader survey, quantified benchmarks
+- **FloQast floqast.com/blog** — Best for mid-market accounting automation trends; 515-person global survey
+- **Fast Company Most Innovative Companies** — Good for validated company milestones (Ramp $1B ARR, $32B valuation)
+- **PR Newswire / Datarails investor releases** — Authoritative for Datarails funding and product announcements
+- **CFO Dive** — Strong synthesis of finance AI news with practitioner context
+
+## Tier 2 — AI Finance Tools (added 2026-04-08)
+- **ChatFin.ai blog** — Useful for benchmarks/comparisons but verify independently (SEO-oriented site)
+- **Abacum.ai blog** — Vendor content but useful for FP&A tool comparisons; bias noted
+- **Drivetrain.ai blog** — Vendor content; ROI claims directionally useful, verify with customer references
+- **Fortune / Gartner via FloQast** — Good for CFO readiness and AI investment gap stats
+
 ## Not Yet Rated
 - SaaStr content, Bessemer Cloud Index, KeyBanc SaaS Survey, Pavilion/RevGenius communities
 - Tracxn/PitchBook — useful for private company estimates (Entrata, Yardi) but require subscription for full data

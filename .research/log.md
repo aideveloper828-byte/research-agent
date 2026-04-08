@@ -1,5 +1,22 @@
 # Research Log
 
+## Session — 2026-04-08
+**Question:** Wednesday AI in Finance & Operations — Numeric, FloQast, Trullion, Ramp, Vic.ai, Datarails, Drivetrain; how SaaS finance teams are using AI in 2026
+**Briefs produced:** briefs/2026-04-08-ai-finance-ops.md, podcasts/2026-04-08-ai-finance-ops.md
+**Key findings:**
+- The AI adoption paradox: 84% of finance leaders use AI daily, yet 91% report low impact (Datarails + Gartner). Root cause: deploying AI before fixing data quality (67% of underperforming implementations)
+- Datarails $70M Series C (Jan 2026, $175M total, 70% YoY growth); FinanceOS now connects 400+ data sources + AI Finance Agents for Strategy/Planning/Reporting; shifting to usage-based pricing
+- FloQast launched auditable AI Agents; projects "dramatically less human involvement" in close by end of 2026; Excel-native, 2,800+ mid-market customers
+- Ramp: $1B ARR, $32B valuation, >99% expense policy compliance, 7x fewer clicks than Bill.com, Visa partnership for AI bill pay
+- The dunning opportunity: $118.5B/year in failed subscription payments; Recurly Smart Retry recovers 76% vs. ~40% manual — at $20M ARR this is a $150–300K/year recoverable revenue gap
+- FP&A landscape: Drivetrain fastest ROI (<6 months), Mosaic acquired by HiBob (2025, roadmap uncertain), Abacum has steep learning curve + no native scenario engine
+- AI finance ROI benchmarks: 65% positive ROI in 6 months; AP payback 3–5 months; FP&A payback 5–9 months; median 15–18 hrs/week saved
+**Follow-ups identified:**
+- Determine ERP/billing stack at Opiniion (NetSuite? Stripe?) — unlocks which FP&A tools integrate without friction
+- Run failed payment analysis: pull 6 months of billing data, calculate recovery rate vs. 76% Recurly benchmark
+- Evaluate Ramp vs. current expense solution (quick win, month 1)
+- AppFolio Q1 2026 earnings April 23 — still active watch date from competitor brief
+
 ## Session — 2026-04-07
 **Question:** Monday Competitor Intelligence — AppFolio, Entrata, RealPage, Yardi, Buildium, Rent Manager, ResMan
 **Briefs produced:** briefs/2026-04-07-competitor-intelligence.md, podcasts/2026-04-07-competitor-intelligence.md
