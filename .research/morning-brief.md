@@ -1,15 +1,15 @@
-# Morning Brief — Wednesday, April 8, 2026
-**Topic:** AI in Finance & Operations | **Prepared for:** Head of Finance, Opiniion
+# Morning Brief — Monday, April 13, 2026
+**Topic:** Competitor Intelligence | **Prepared for:** Head of Finance, Opiniion
 
 ---
 
 ## Headlines
 
-- **84% of finance leaders now use AI daily** — but 91% report low impact (Datarails + Gartner). The gap is data quality, not tooling.
-- **Datarails raised $70M Series C** (Jan 2026, $175M total), launched FinanceOS with AI Finance Agents; grew 70% YoY in 2025.
-- **FloQast launched auditable AI Agents** for close management — projects "dramatically less human involvement" in standard close tasks by end of 2026.
-- **Ramp crossed $1B ARR**, $32B valuation; Policy Agent reviews 100% of expenses at >99% accuracy; Visa partnership expanding to AI-powered bill pay.
-- **Failed payments cost subscription businesses $118.5B/year** — Recurly Smart Retry recovers up to 76% of failed charges vs. ~40% manual average.
+- **RealPage's strategic direction is now officially fintech, not resident experience** — New Chief Fintech Officer (March 17) focused on payments and financial services. AI drives ~25% of $1.6B revenue (screening + pricing), profit up 33% YoY. The resident satisfaction layer is wide open for Opiniion in the Buildium customer base.
+- **AppFolio Q1 2026 earnings: April 23 at 5 PM ET** — 10 days away. 7/7 analysts rated Buy; JPMorgan raised PT to $330. Any product announcement touching resident experience = red alert. Listen live or review transcript within 24 hours.
+- **Entrata is distributing your value proposition for you** — Their "Value Shift in Multifamily" content states happy residents are 30% more likely to renew. Every PM company not on Entrata who hears this is now an Opiniion prospect. Use this data point in every sales and renewal conversation.
+- **Yardi expanding into self-storage and manufactured housing, not deepening multifamily AI** — Storage Manager and MH Manager launched this week. Yardi's institutional multifamily customers have a growing resident experience gap. Target the Yardi Marketplace.
+- **Vendor fatigue is accelerating** — ResMan at 61 G2 badges (CRM, lease admin); AppFolio data shows 45% of operators cutting point solutions. Opiniion must embed deeper into PMS workflows, not add another dashboard.
 
 ---
 
@@ -17,21 +17,22 @@
 
 | Development | Signal |
 |---|---|
-| Datarails $70M raise + FinanceOS launch (Jan 2026) | FP&A platform war heating up; usage-based pricing displacing per-user SaaS |
-| FloQast AI Agents launch | Auditable AI now table stakes for close automation at mid-market |
-| Ramp + Visa AI bill pay partnership (2026) | Spend management becoming infrastructure, not point-solution |
-| Mosaic acquired by HiBob (2025) | FP&A tool landscape reshuffling; evaluate Mosaic roadmap carefully |
-| Continuous Close adoption accelerating | Month-end sprint paradigm ending; daily reconciliation becoming norm |
+| RealPage appoints first Chief Fintech Officer (March 17) | Strategic pivot away from resident layer — Buildium partnership window opens |
+| RealPage profit +33% YoY; AI = 25% of revenue (April 9 Bloomberg) | RealPage financially healthy but focused elsewhere — not an imminent threat in resident experience |
+| NJ AG antitrust suit partially dismissed (April 2026) | Some legal overhang reduced; RealPage stabilizing reputationally |
+| AppFolio Q1 earnings confirmed April 23 | 10-day watch window — highest risk / highest signal event in Q2 |
+| Entrata "Value Shift" webinar live | Competitor validating Opiniion's core ROI narrative to their customer base |
+| Yardi Storage Manager + MH Manager launches (April 5–7) | Adjacent verticals, not multifamily deepening — less competitive pressure in core market |
 
 ---
 
 ## Action Items (Top 3)
 
-1. **Pull failed payment / dunning data NOW** — Calculate current recovery rate vs. 76% Smart Retry benchmark. Estimate the annual revenue gap. This is the fastest finance-led revenue impact available in your first 30 days. At $20M ARR, the gap is likely $150–$300K+/year.
+1. **Block April 23, 5 PM ET for AppFolio earnings call** — Review transcript within 24 hours. Listen for: any resident experience product tease, how management answers questions about adjacent modules, and updated "consolidation" data from their benchmark survey. This is the single highest-priority competitive intelligence moment in Q2.
 
-2. **Data quality audit before any AI tool purchase** — Map all finance data sources (ERP, CRM, billing, HRIS). Identify manual handoffs and stale data. 67% of underperforming AI finance implementations skipped this step. Do it in month one.
+2. **Initiate Buildium partnership outreach this week** — RealPage just declared via executive hiring that their strategic priority is fintech/payments, not resident experience. Buildium customers have no native satisfaction tool. Request an introductory meeting with Buildium's partnerships or integrations team to position Opiniion as the preferred resident satisfaction solution for their ecosystem.
 
-3. **Get demos from Datarails + Drivetrain this month** — Both target $15–30M ARR SaaS; both claim <6 month ROI. Datarails is Excel-native + 400 integrations; Drivetrain is SaaS-native + 2–4 week implementation. Evaluate against your existing forecasting workflow.
+3. **Build the "30% renewal lift" ROI model** — Entrata's content is seeding this number in thousands of PM companies' heads. Build a customer-specific version: average portfolio size × average rent × renewal rate improvement = protected revenue per year. Have it ready for every sales call and renewal conversation this quarter.
 
 ---
 
@@ -39,24 +40,21 @@
 
 | Metric | Number | Source |
 |---|---|---|
-| Finance leaders using AI daily | 84% | Datarails 2025 Survey |
-| AI deployments with low impact | 91% | Gartner |
-| CFO readiness gap (investing vs. equipped) | 78% vs. 47% | Gartner via FloQast |
-| AI finance ROI within 6 months | 65% of implementations | ChatFin/G2 |
-| AP automation cost per invoice: manual → AI | $12–15 → $2–4 | Forrester/ChatFin |
-| Time savings: AI finance automation | 15–18 hrs/week | Cross-source median |
-| Dunning recovery: manual vs. Smart Retry | ~40% → 76% | Recurly benchmark |
-| Failed subscription payments (industry total) | $118.5B/year | Industry data |
-| Datarails 2025 revenue growth | 70% YoY | PR Newswire |
-| Ramp expense policy compliance accuracy | >99% | Fast Company |
-| Ramp vs. Bill.com clicks per bill | 7x fewer | Ramp |
+| RealPage annual revenue | ~$1.6B | Tracxn/Bloomberg 2026 |
+| RealPage profit growth YoY | +33% (to ~$408M) | Bloomberg, April 2026 |
+| RealPage AI-enabled revenue share | ~25% | Bloomberg, April 2026 |
+| AppFolio consensus analyst rating | Strong Buy (7/7) | MarketBeat |
+| AppFolio average analyst price target | $327 (~35% upside) | MarketBeat / Zacks |
+| AppFolio customers planning point-solution cuts | 45% | AppFolio 2026 Benchmark |
+| Resident satisfaction → renewal lift | +30% | Entrata / Funnel Leasing |
+| AI adoption among PM companies | 58% | Buildium 2026 Industry Report |
+| PM software market size (2026) | $7.7B | GlobeNewswire/Verified MR |
 
 ---
 
 ## Links
-- **Full Brief:** [briefs/2026-04-08-ai-finance-ops.md](briefs/2026-04-08-ai-finance-ops.md)
-- **Podcast Script:** [podcasts/2026-04-08-ai-finance-ops.md](podcasts/2026-04-08-ai-finance-ops.md)
+- **Full Brief:** [briefs/2026-04-13-competitor-intelligence.md](briefs/2026-04-13-competitor-intelligence.md)
+- **Podcast Script:** [podcasts/2026-04-13-competitor-intelligence.md](podcasts/2026-04-13-competitor-intelligence.md)
 
 ---
-
-*Generated by morning-research-briefing scheduled task | 2026-04-08*
+*Next Monday brief: Competitor Intelligence — watch AppFolio Q1 earnings April 23*

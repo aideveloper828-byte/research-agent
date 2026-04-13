@@ -1,5 +1,20 @@
 # Research Log
 
+## Session — 2026-04-13
+**Question:** Monday Competitor Intelligence — AppFolio Q1 earnings watch, RealPage fintech pivot, Entrata value shift narrative, Yardi adjacent vertical expansion
+**Briefs produced:** briefs/2026-04-13-competitor-intelligence.md, podcasts/2026-04-13-competitor-intelligence.md
+**Key findings:**
+- RealPage appointed first Chief Fintech Officer (Zahir Khoja, March 17) — strategic pivot to payments/financial services, explicitly NOT resident experience. AI = ~25% of $1.6B revenue (screening, pricing). Profit +33% YoY to ~$408M. Gap opens in Buildium customer base for Opiniion.
+- AppFolio Q1 2026 earnings April 23 at 5 PM ET. Strong Buy 7/7 analysts; JPMorgan PT $330; avg target $327 (+35%). Any resident experience product tease = highest-priority competitive signal. Must watch live.
+- Entrata "Value Shift in Multifamily" content distributes "happy residents 30% more likely to renew" data to thousands of PM companies. Validates Opiniion's core value prop. Use in every sales/renewal conversation.
+- Yardi launched Storage Manager (self-storage) + MH Manager (manufactured housing) this week. Adjacent vertical expansion, not multifamily AI deepening. Yardi Marketplace listing now higher priority.
+- Vendor fatigue narrative accelerating: 45% of operators plan point-solution cuts (AppFolio benchmark); ResMan 61 G2 badges pushing consolidation. Opiniion must embed deeper into PMS workflows.
+**Follow-ups identified:**
+- CRITICAL: AppFolio Q1 earnings call April 23 — block calendar now
+- Initiate Buildium partnerships outreach this week (RealPage fintech pivot = open window)
+- Build "30% renewal lift" ROI model for sales + renewals
+- Pursue Yardi Marketplace listing (Yardi multifamily customers have growing resident experience gap)
+
 ## Session — 2026-04-08
 **Question:** Wednesday AI in Finance & Operations — Numeric, FloQast, Trullion, Ramp, Vic.ai, Datarails, Drivetrain; how SaaS finance teams are using AI in 2026
 **Briefs produced:** briefs/2026-04-08-ai-finance-ops.md, podcasts/2026-04-08-ai-finance-ops.md

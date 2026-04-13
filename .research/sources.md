@@ -28,6 +28,13 @@
 - **Seeking Alpha APPF coverage** — Good for investor-grade AppFolio financial analysis (note: sell-side bias)
 - **Yardi official newsroom (yardi.com/news)** — Primary source for Yardi announcements; limited financial disclosure (private)
 
+## New Sources Added 2026-04-13
+- **Bloomberg PropTech/RealPage coverage** — Bloomberg reported RealPage earnings data (private company, debt investor disclosures). High quality for RealPage financials. Requires subscription.
+- **Multifamily Dive (multifamilydive.com)** — Excellent for RealPage antitrust, Entrata, Buildium exec moves. Industry-vertical journalism.
+- **Funnel Leasing blog (funnelleasing.com)** — Published "Resident Experience Stack 2026" — industry-level trend piece, useful for market framing
+- **PointCentral (pointcentral.com)** — "Resident Expectations in 2026" research. Good for validating resident tech adoption data.
+- **Dallas Innovates / Hoodline** — Good secondary sources for RealPage executive hire coverage
+
 ## Tier 1 — AI Finance Tools (added 2026-04-08)
 - **Datarails datarails.com/research** — Primary source for AI in finance survey data; 389-leader survey, quantified benchmarks
 - **FloQast floqast.com/blog** — Best for mid-market accounting automation trends; 515-person global survey
