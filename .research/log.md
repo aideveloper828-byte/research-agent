@@ -1,5 +1,20 @@
 # Research Log
 
+## Session — 2026-04-15
+**Question:** Wednesday AI in Finance & Operations — Agentic AI production adoption, NetSuite 2026.1 AI features, Numeric Series B, FloQast Visual Agent Builder, Gartner AI ROI framework, Grant Thornton Q1 2026 CFO survey
+**Briefs produced:** briefs/2026-04-15-agentic-ai-finance-netsuite.md, podcasts/2026-04-15-agentic-ai-finance-netsuite.md
+**Key findings:**
+- Agentic AI cutting close from 6.2 → 1.8 days (Hackett Group); 44% of finance teams using it (+600% YoY); 67% of CFOs cite it as top priority (CFO Dive Q1 2026)
+- NetSuite 2026.1 (live now): Intelligent Close Manager, AI Payment Date Predictions, GenAI bank matching, flux analysis narratives — all included in existing license
+- Numeric raised $51M Series B (IVP) in Nov 2025; $89M total; expanding from close management to full finance platform; 90%+ cash matching rate
+- FloQast Visual Agent Builder launched March 31 — no-code drag-and-drop close automation for controllers
+- Gartner (March 24): CFOs must use a three-tier portfolio framework for AI ROI — routine automation, analytical AI, transformational AI — not a single financial lens
+- Grant Thornton Q1 2026: 68% of CFOs increasing IT/AI spend (21-quarter high); 72% expect profit growth
+**Follow-ups identified:**
+- Enable NetSuite Intelligent Close Manager + Payment Date Predictions ASAP (no cost, in existing license)
+- Book Numeric demo to benchmark vs. NetSuite 2026.1 native tools
+- Build three-tier AI portfolio map by April 30 for May board meeting
+
 ## Session — 2026-04-13
 **Question:** Monday Competitor Intelligence — AppFolio Q1 earnings watch, RealPage fintech pivot, Entrata value shift narrative, Yardi adjacent vertical expansion
 **Briefs produced:** briefs/2026-04-13-competitor-intelligence.md, podcasts/2026-04-13-competitor-intelligence.md

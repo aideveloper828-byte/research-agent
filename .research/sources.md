@@ -1,6 +1,10 @@
 # Source Quality Ratings
 
 ## Tier 1 — High Signal (Consistently valuable)
+- **Hackett Group Finance Benchmarks** — Best source for close cycle and operational efficiency benchmarks (mid-market)
+- **Grant Thornton CFO Survey** — 230+ finance leaders, quarterly, 21-quarter history; excellent for peer benchmarking on AI spend intent
+- **ChatFin.ai** — Aggregate benchmarks on AI finance ROI; useful but verify with primary sources
+- **NetSuite official release notes (netsuite.com)** — Authoritative for NetSuite 2026.x features and availability timelines
 - **Gartner press releases** — Best for adoption rates and trend data. Multiple surveys per year.
 - **L.E.K. Consulting Office of CFO Survey** — Excellent for quantified before/after metrics
 - **Kyriba CFO surveys** — Good for strategic AI adoption data among larger companies

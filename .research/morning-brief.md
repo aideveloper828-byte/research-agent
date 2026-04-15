@@ -1,60 +1,65 @@
-# Morning Brief — Monday, April 13, 2026
-**Topic:** Competitor Intelligence | **Prepared for:** Head of Finance, Opiniion
+# Morning Brief — Wednesday, April 15, 2026
+**Topic:** AI in Finance & Operations — Agentic AI + NetSuite 2026.1
 
 ---
 
-## Headlines
+## Headlines (5 Bullets)
 
-- **RealPage's strategic direction is now officially fintech, not resident experience** — New Chief Fintech Officer (March 17) focused on payments and financial services. AI drives ~25% of $1.6B revenue (screening + pricing), profit up 33% YoY. The resident satisfaction layer is wide open for Opiniion in the Buildium customer base.
-- **AppFolio Q1 2026 earnings: April 23 at 5 PM ET** — 10 days away. 7/7 analysts rated Buy; JPMorgan raised PT to $330. Any product announcement touching resident experience = red alert. Listen live or review transcript within 24 hours.
-- **Entrata is distributing your value proposition for you** — Their "Value Shift in Multifamily" content states happy residents are 30% more likely to renew. Every PM company not on Entrata who hears this is now an Opiniion prospect. Use this data point in every sales and renewal conversation.
-- **Yardi expanding into self-storage and manufactured housing, not deepening multifamily AI** — Storage Manager and MH Manager launched this week. Yardi's institutional multifamily customers have a growing resident experience gap. Target the Yardi Marketplace.
-- **Vendor fatigue is accelerating** — ResMan at 61 G2 badges (CRM, lease admin); AppFolio data shows 45% of operators cutting point solutions. Opiniion must embed deeper into PMS workflows, not add another dashboard.
+- **NetSuite 2026.1 is live and ships real AI close features** — Intelligent Close Manager, AI Payment Date Predictions, GenAI bank matching, and flux analysis narratives are available now in your existing license. No new tools. Just enable them.
+- **Agentic AI cuts month-end close from 6.2 → 1.8 days** for mid-market companies with full deployment (Hackett Group). 44% of finance teams now use agentic AI — up 600%+ YoY.
+- **Numeric raises $51M Series B (IVP)** to expand from close management to a full finance platform. OpenAI, Brex, Wealthfront are customers. Close + cash matching + auto-flux narratives in one layer on top of NetSuite.
+- **FloQast Visual Agent Builder launched March 31** — drag-and-drop, no-code close automation workflow builder. Controllers build and update agents without IT.
+- **Gartner (March 24): CFOs are misjudging AI ROI** by applying a single financial lens to all projects. Prescribes a three-tier portfolio: routine automation, analytical AI, transformational AI — each evaluated differently.
 
 ---
 
-## What Changed Recently
+## What Changed This Week
 
-| Development | Signal |
-|---|---|
-| RealPage appoints first Chief Fintech Officer (March 17) | Strategic pivot away from resident layer — Buildium partnership window opens |
-| RealPage profit +33% YoY; AI = 25% of revenue (April 9 Bloomberg) | RealPage financially healthy but focused elsewhere — not an imminent threat in resident experience |
-| NJ AG antitrust suit partially dismissed (April 2026) | Some legal overhang reduced; RealPage stabilizing reputationally |
-| AppFolio Q1 earnings confirmed April 23 | 10-day watch window — highest risk / highest signal event in Q2 |
-| Entrata "Value Shift" webinar live | Competitor validating Opiniion's core ROI narrative to their customer base |
-| Yardi Storage Manager + MH Manager launches (April 5–7) | Adjacent verticals, not multifamily deepening — less competitive pressure in core market |
+| Item | What Happened | So What |
+|------|--------------|---------|
+| NetSuite 2026.1 | Production upgrades rolling out now (Feb–April) | Activate features in existing license ASAP |
+| Gartner AI ROI Report | March 24 press release | New framework for internal AI business cases |
+| Grant Thornton CFO Survey | Q1 2026: 68% of CFOs increasing IT spend | Highest in 21 quarters — your peer CFOs are all-in |
+| Numeric Series B | $51M raised, expanding beyond close | Benchmark competitor to NetSuite native tools |
+| FloQast Visual Agent Builder | Live March 31 | No-code close automation for controllers |
 
 ---
 
 ## Action Items (Top 3)
 
-1. **Block April 23, 5 PM ET for AppFolio earnings call** — Review transcript within 24 hours. Listen for: any resident experience product tease, how management answers questions about adjacent modules, and updated "consolidation" data from their benchmark survey. This is the single highest-priority competitive intelligence moment in Q2.
+1. **TODAY — Call your NetSuite admin:** Confirm your account is on 2026.1 and enable Intelligent Close Manager + Payment Date Predictions. Free. High impact. Low effort.
 
-2. **Initiate Buildium partnership outreach this week** — RealPage just declared via executive hiring that their strategic priority is fintech/payments, not resident experience. Buildium customers have no native satisfaction tool. Request an introductory meeting with Buildium's partnerships or integrations team to position Opiniion as the preferred resident satisfaction solution for their ecosystem.
+2. **THIS WEEK — Book a Numeric demo:** Evaluate their close automation + cash matching against what NetSuite 2026.1 natively gives you. Know your options before you hit complexity at $25M–$30M ARR.
 
-3. **Build the "30% renewal lift" ROI model** — Entrata's content is seeding this number in thousands of PM companies' heads. Build a customer-specific version: average portfolio size × average rent × renewal rate improvement = protected revenue per year. Have it ready for every sales call and renewal conversation this quarter.
+3. **BY APRIL 30 — Build your AI Portfolio Map:** Use Gartner's three-tier framework (routine automation / analytical AI / transformational AI) to map every current and proposed AI tool. Present to leadership at the May board meeting as your AI governance framework.
 
 ---
 
 ## Numbers That Matter
 
 | Metric | Number | Source |
-|---|---|---|
-| RealPage annual revenue | ~$1.6B | Tracxn/Bloomberg 2026 |
-| RealPage profit growth YoY | +33% (to ~$408M) | Bloomberg, April 2026 |
-| RealPage AI-enabled revenue share | ~25% | Bloomberg, April 2026 |
-| AppFolio consensus analyst rating | Strong Buy (7/7) | MarketBeat |
-| AppFolio average analyst price target | $327 (~35% upside) | MarketBeat / Zacks |
-| AppFolio customers planning point-solution cuts | 45% | AppFolio 2026 Benchmark |
-| Resident satisfaction → renewal lift | +30% | Entrata / Funnel Leasing |
-| AI adoption among PM companies | 58% | Buildium 2026 Industry Report |
-| PM software market size (2026) | $7.7B | GlobeNewswire/Verified MR |
+|--------|--------|--------|
+| Close cycle w/ agentic AI | 1.8 days | Hackett Group 2026 |
+| Close cycle industry avg | 6.2 days | Hackett Group 2026 |
+| Median 3-year ROI on finance AI | 4.2x | ChatFin benchmarks |
+| Average payback period | 7 months | Multiple 2026 surveys |
+| Cash flow forecast accuracy (AI) | 92–97% | vs. 60–70% manual |
+| CFOs increasing IT spend (Q1 2026) | 68% | Grant Thornton (21-quarter high) |
+| CFOs citing agentic AI as top priority | 67% | CFO Dive Q1 2026 |
+| Finance teams using agentic AI (2026) | 44% (+600% YoY) | Multiple 2026 surveys |
+| Ramp expense policy AI accuracy | 99%+ | Fast Company 2026 |
+| Numeric cash matching rate | 90%+ | Numeric |
 
 ---
 
 ## Links
-- **Full Brief:** [briefs/2026-04-13-competitor-intelligence.md](briefs/2026-04-13-competitor-intelligence.md)
-- **Podcast Script:** [podcasts/2026-04-13-competitor-intelligence.md](podcasts/2026-04-13-competitor-intelligence.md)
+
+- **Full Brief:** `.research/briefs/2026-04-15-agentic-ai-finance-netsuite.md`
+- **Podcast Script:** `.research/podcasts/2026-04-15-agentic-ai-finance-netsuite.md`
+- **NetSuite 2026.1 Release Notes:** https://www.netsuite.com/portal/resource/articles/financial-management/netsuite-2026-1-features-new-ai-close-and-cash-management-ai-agents-for-planning-and-reconciliation-and-more.shtml
+- **Gartner AI ROI Rethink:** https://www.gartner.com/en/newsroom/press-releases/2026-03-24-gartner-says-cfos-need-to-rethink-the-roi-of-ai-investments
+- **Numeric Series B:** https://www.prnewswire.com/news-releases/numeric-raises-51m-series-b-expanding-from-close-management-to-comprehensive-finance-platform-302619774.html
 
 ---
-*Next Monday brief: Competitor Intelligence — watch AppFolio Q1 earnings April 23*
+
+*Generated by nightly research agent | 2026-04-15 | Topic rotates M–Su: Competitor Intel / SaaS Metrics / AI Finance / GTM & RevOps / PropTech / Deep Dive / Weekly Synthesis*
