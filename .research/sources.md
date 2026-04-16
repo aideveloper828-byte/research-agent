@@ -1,5 +1,16 @@
 # Source Quality Ratings
 
+## New Sources Added 2026-04-16
+- **Ramp blog (ramp.com/blog)** — Authoritative for Ramp product case studies; customer results are verified and specific (REVA Air, Perplexity, Adrift case studies)
+- **Lightspeed Venture Partners (lsvp.com)** — Investor thesis pieces are excellent for strategic framing; Ramp $300M round analysis has clean first-principles reasoning
+- **Vic.ai news (vic.ai/news)** — Primary source for Vic.ai research and AP automation survey data; 2025 AI Momentum Report (n=800) is credible
+- **Bain Capital Ventures (baincapitalventures.com)** — "AI and the Office of the CFO" 2025 is a strong synthesis; 2x/3x impact compounding data well-sourced
+- **Deloitte 2025 Finance Transformation Survey** — Referenced via ChatFin; verify primary URL when available. ASC 606 AI reduction benchmarks are from this source.
+- **KPMG 2025 Revenue Recognition Survey** — Referenced via ChatFin; 41% contract modification pain point. Verify primary URL when available.
+- **Accounting Today (accountingtoday.com)** — Good primary source for software vendor announcements; Datarails FinanceOS announcement confirmed here
+- **Trullion blog (trullion.com/blog)** — Useful for ASC 606/842 vendor perspective; verify claims with customer references
+- **CFO Dive MIT/Stanford study** — AI cuts close time by 7.5 days; high-quality academic reference via practitioner publication
+
 ## Tier 1 — High Signal (Consistently valuable)
 - **Hackett Group Finance Benchmarks** — Best source for close cycle and operational efficiency benchmarks (mid-market)
 - **Grant Thornton CFO Survey** — 230+ finance leaders, quarterly, 21-quarter history; excellent for peer benchmarking on AI spend intent

@@ -1,5 +1,19 @@
 # Research Log
 
+## Session — 2026-04-16
+**Question:** Wednesday AI in Finance & Operations — Full AI finance stack layer-by-layer, Ramp agentic AP case studies, Datarails FinanceOS, ASC 606 automation, Numeric vs FloQast comparison, CFO AI adoption benchmarks
+**Briefs produced:** briefs/2026-04-16-ai-finance-ops.md, podcasts/2026-04-16-ai-finance-ops.md
+**Key findings:**
+- Ramp agentic AP: REVA Air 80%+ time reduction, Perplexity 163 hrs/month automated + $5M saved, Adrift 5–10 days faster close — concrete proof points, not vendor claims
+- Datarails declared "traditional FP&A dead" and launched FinanceOS — full data + AI agent OS for CFO office; Datarails Genius generates board-ready narratives from governed data
+- ASC 606: AI tools cut rev rec review time 55–65%/quarter (Deloitte); reduce restatements 34% over 2 years; 41% of SaaS CFOs cite contract modification as #1 pain point (KPMG 2025)
+- Numeric vs FloQast: Numeric $20K–$40K/yr, AI flux analysis, IVP-backed; FloQast Visual Agent Builder (no-code, March 2026); Numeric targets tech-forward controllers
+- Only 38% of AI finance projects meet ROI (Deloitte); failure pattern = wrong sequence; data → process → AI is the only path that works
+- Compounding advantage: mature AI adopters are 3x more likely to report high impact (Bain Capital Ventures)
+**Follow-ups identified:**
+- Confirm whether Ramp is already deployed for AP (not just cards) at Opiniion — if yes, activation is free
+- Datarails pricing inquiry: is FinanceOS a new SKU or an upgrade to existing accounts?
+
 ## Session — 2026-04-15
 **Question:** Wednesday AI in Finance & Operations — Agentic AI production adoption, NetSuite 2026.1 AI features, Numeric Series B, FloQast Visual Agent Builder, Gartner AI ROI framework, Grant Thornton Q1 2026 CFO survey
 **Briefs produced:** briefs/2026-04-15-agentic-ai-finance-netsuite.md, podcasts/2026-04-15-agentic-ai-finance-netsuite.md
