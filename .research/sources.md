@@ -11,6 +11,19 @@
 - **Trullion blog (trullion.com/blog)** — Useful for ASC 606/842 vendor perspective; verify claims with customer references
 - **CFO Dive MIT/Stanford study** — AI cuts close time by 7.5 days; high-quality academic reference via practitioner publication
 
+## New Sources Added 2026-04-17
+- **Buildium 2026 State of Property Management Industry Report (buildium.com)** — Annual survey-based industry report; 2026 edition covers AI adoption (58%), fraud trends (75%), retention gap (63% target vs. 58% actual), cost pressures. High quality, large sample.
+- **CBRE U.S. Real Estate Market Outlook 2026 (cbre.com)** — Authoritative multifamily market data; Tier 1 for vacancy and rent growth benchmarks
+- **Arbor Multifamily Market Snapshot (arbor.com)** — Monthly multifamily data; February 2026 snapshot cited; good for current rent and vacancy figures
+- **NAA Premium Pulse: Multifamily Insurance Cost Acceleration (naahq.org)** — Authoritative for insurance per-unit cost data; cites $502→$777/unit since 2021 (+55%)
+- **CRE Daily (credaily.com)** — Solid industry briefing for multifamily market news, retention data, and economic headwinds
+- **Yardi Matrix National Multifamily Market Report (yardimatrix.com)** — Monthly; January 2026 cited for $1,741/month avg rent, +0.2% YoY. Tier 1 for rent data.
+- **Corum Group PropTech M&A (corumgroup.com)** — 163 PropTech deals in first 11 months of 2025 data; specialized M&A intelligence. Tier 2.
+- **Grand View Research PM Software Market (grandviewresearch.com)** — Market sizing; $3.61B (2025) → $5.89B (2033) at 6.4% CAGR. Directionally reliable, not primary.
+- **Data Insights Market: Vertical SaaS (datainsightsmarket.com)** — Vertical SaaS 16.3% CAGR 2026–2035; 3x retention vs. horizontal. Verify with secondary sources.
+- **MRI Software PropTech Trends 2026 (mrisoftware.com)** — Vendor perspective; useful for integration partner positioning signals
+- **JBREC NMHC 2026 Takeaways (jbrec.com)** — Strong synthesis of NMHC Annual Meeting 2026 findings; market segmentation and BTR trends
+
 ## Tier 1 — High Signal (Consistently valuable)
 - **Hackett Group Finance Benchmarks** — Best source for close cycle and operational efficiency benchmarks (mid-market)
 - **Grant Thornton CFO Survey** — 230+ finance leaders, quarterly, 21-quarter history; excellent for peer benchmarking on AI spend intent

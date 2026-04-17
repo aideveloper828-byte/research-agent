@@ -1,5 +1,22 @@
 # Research Log
 
+## Session — 2026-04-17
+**Question:** Friday PropTech & Industry Trends — AI adoption in property management, multifamily market fundamentals, NOI squeeze, retention gap, PropTech M&A consolidation, regulatory changes
+**Briefs produced:** briefs/2026-04-17-proptech-industry-trends.md, podcasts/2026-04-17-proptech-industry-trends.md
+**Key findings:**
+- 58% of PM companies now use AI (Buildium 2026 Report); AppFolio Realm-X saving users 10.3 hrs/wk (tasks), 11.9 hrs/wk (comms); only vendor rated for Autonomous Task Execution (80%) on G2
+- NOI squeeze: insurance up 55% since 2021 (~$800/unit nationally, Houston >$1,200); maintenance materials 30% above pre-pandemic; 93% of PM companies saw expenses rise; half say tech is top cost-cutting strategy
+- Multifamily: 0.2% YoY rent growth ($1,741/month avg), 4.4% vacancy, Sunbelt running 200bps higher; construction down 30% YoY, 53% from 2023 peak — 2027–2028 tightening setup
+- Retention gap: industry targets 63%, achieves 58%; 40% of at-risk renters would stay with better maintenance; managers misattribute churn to "life changes" when residents cite rent, maintenance, security
+- PropTech M&A: 163 deals in first 11 months of 2025 vs. 134 all of 2024; PM software market $3.61B (2025) → $5.89B (2033); Vertical SaaS 3x higher retention than horizontal
+- Regulatory: California AB 325 restricts algorithm-based rent pricing; 130+ local rent control measures under consideration; Opiniion feedback logs have untapped compliance documentation value
+- Fraud: 75% of PM companies reporting increase; AI fraud detection now >98% accuracy
+**Follow-ups identified:**
+- Build CFO-facing ROI model (turnover cost vs. Opiniion subscription) before next sales cycle
+- Audit integration depth with AppFolio, Buildium, Rent Manager, MRI, Yardi — before next M&A cycle
+- Launch Sunbelt-focused pipeline campaign (Austin, Phoenix, Denver, SE) in Q2–Q3
+- AppFolio Q1 2026 earnings April 23 still CRITICAL — still active
+
 ## Session — 2026-04-16
 **Question:** Wednesday AI in Finance & Operations — Full AI finance stack layer-by-layer, Ramp agentic AP case studies, Datarails FinanceOS, ASC 606 automation, Numeric vs FloQast comparison, CFO AI adoption benchmarks
 **Briefs produced:** briefs/2026-04-16-ai-finance-ops.md, podcasts/2026-04-16-ai-finance-ops.md
