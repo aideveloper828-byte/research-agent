@@ -24,6 +24,18 @@
 - **MRI Software PropTech Trends 2026 (mrisoftware.com)** — Vendor perspective; useful for integration partner positioning signals
 - **JBREC NMHC 2026 Takeaways (jbrec.com)** — Strong synthesis of NMHC Annual Meeting 2026 findings; market segmentation and BTR trends
 
+## New Sources Added 2026-04-18
+- **Leasey.AI — Days to Fill Vacancy 2026 (leasey.ai)** — Research on vacancy fill times; 40-day average (Feb 2026, longest since 2019). Useful for vacancy loss quantification.
+- **Renew — Multifamily Vacancy Rates & Turnover (heyrenew.com)** — $3,976/unit avg turnover cost; 45-55% annual turnover rate; vacancy data. Good industry-practitioner source.
+- **Multifamily Dive — Turnover Costs $4K (multifamilydive.com)** — $4,000/unit turnover benchmark headline; cites 2024 Resident Experience Management Report. Tier 2.
+- **NAA Income/Expense IQ 2024 (naahq.org)** — $1,323/unit vacancy & rent loss; $82/unit concessions (↑30.9% YoY). Authoritative primary source. Tier 1.
+- **Grace Hill / Kingsley Surveys (gracehill.com)** — 7M+ residents/year; satisfaction-renewal correlation data; NOI impact benchmarks. Tier 1 for resident experience data.
+- **Opiniion + Yardi Case Study (opiniion.com)** — 582 communities, 18-month study. Primary Opiniion proof point; specific numerical results behind gated PDF.
+- **Yardi Matrix Q1 2026 Multifamily (yardimatrix.com)** — $1,741/month avg rent (Jan 2026); 0.5% 2026 rent growth projection. Updated from April 17 session.
+- **Editorialge — Accountable ROI for B2B SaaS 2026 (editorialge.com)** — "Accountable ROI era" framing for CFO buyer psychology. Tier 3.
+- **CBRE US Real Estate Outlook 2025 (cbre.com)** — 94.7% national multifamily occupancy. Tier 1 market data.
+- **BrandMovers — CFO ROI Business Case 2026 (blog.brandmovers.com)** — CFO-ready business case template and payback period benchmarks. Tier 3.
+
 ## Tier 1 — High Signal (Consistently valuable)
 - **Hackett Group Finance Benchmarks** — Best source for close cycle and operational efficiency benchmarks (mid-market)
 - **Grant Thornton CFO Survey** — 230+ finance leaders, quarterly, 21-quarter history; excellent for peer benchmarking on AI spend intent

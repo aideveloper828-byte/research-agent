@@ -1,5 +1,25 @@
 # Research Log
 
+## Session — 2026-04-18
+**Question:** Saturday Deep Dive — CFO-Facing ROI Model for PM Company Buyers (highest-priority backlog item)
+**Briefs produced:** briefs/2026-04-18-cfo-roi-model-pm-buyers.md, podcasts/2026-04-18-cfo-roi-model-pm-buyers.md
+**Key findings:**
+- Full bottom-up ROI model built: 1,000-unit portfolio at 42% turnover rate (industry avg 58% renewal) = $2.65M/yr in turnover costs (13.4% of revenue)
+- Core formula: $4,000/unit make-ready + $2,321 vacancy loss (40 days × $1,741/mo rent) × 420 annual turns = $2,654,820/yr
+- Moderate scenario (3% renewal improvement): $189,630 avoided cost vs. ~$30K platform spend = 6.3x ROI, 1.9-month payback
+- The 5-point retention gap (58% actual → 63% target) is operational, not structural: 40% of at-risk renters would stay with better maintenance — exactly what Opiniion captures
+- Finance leaders are the new buying center: deals stall when CFO enters at contract stage with no business case; champion needs a personalized model to share before RFP/procurement stage
+- Secondary value drivers: reputation lift shortens vacancy fill time (40→35 days = $116K/yr additional savings on 1K-unit portfolio); concession reduction; asset valuation improvement at 5% cap rate
+- Proof point: Opiniion/Yardi 582-community case study (18 months) — primary-source data, but full results are gated behind PDF
+- Anchor line for sales: "We cost less than 5 prevented turnovers. You break even in under two months."
+- NAA 2024: concessions up 30.9% YoY ($82/unit); vacancy & rent loss $1,323/unit/year — rising cost of vacancy validates urgency
+**Follow-ups identified:**
+- Build interactive ROI calculator (Google Sheets or web tool) — 4-6 weeks MVP
+- Commission formal Opiniion retention study from the 582-community Yardi dataset — Q2-Q3 2026
+- Build CFO one-pager deliverable for champions to share with finance leaders — 2-3 weeks
+- Pilot personalized ROI model in next 3 sales discovery calls; report to Sales Leadership within 30 days
+- AppFolio Q1 2026 earnings April 23 — still CRITICAL, block 5 PM ET
+
 ## Session — 2026-04-17
 **Question:** Friday PropTech & Industry Trends — AI adoption in property management, multifamily market fundamentals, NOI squeeze, retention gap, PropTech M&A consolidation, regulatory changes
 **Briefs produced:** briefs/2026-04-17-proptech-industry-trends.md, podcasts/2026-04-17-proptech-industry-trends.md
