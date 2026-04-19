@@ -36,6 +36,18 @@
 - **CBRE US Real Estate Outlook 2025 (cbre.com)** — 94.7% national multifamily occupancy. Tier 1 market data.
 - **BrandMovers — CFO ROI Business Case 2026 (blog.brandmovers.com)** — CFO-ready business case template and payback period benchmarks. Tier 3.
 
+## New Sources Added 2026-04-19
+- **MarTech / Mark Stouse** — 478-company B2B GTM effectiveness dataset (78%→47% decline 2018-2025); causal vs. correlation measurement framework. High quality, practitioner + data-backed.
+- **Maxio 2025 SaaS Benchmarks (maxio.com/blog)** — Expansion ARR % by ARR band (40% for $15-30M); 2025 benchmark trends article. Solid mid-market SaaS data.
+- **Predictable Revenue blog (predictablerevenue.com)** — Hunter-Farmer model evolution; rancher archetype; comp structure benchmarks. Practitioner-oriented, useful for sales model design.
+- **Mike Entner-Gomez Substack (mikeentnergomez.substack.com)** — $20M→$35M expansion case study; rancher comp structure (60/40, 15%/8%). Tier 2 — compelling case study, verify with additional sources.
+- **Metronome blog (metronome.com/blog)** — 1% pricing = 8-11% operating profit benchmark; 2025 AI pricing field report; pricing model evolution. Strong for pricing strategy.
+- **Forma.ai (forma.ai/resources)** — RevOps-to-CFO reporting structure risk analysis; 2025 RevOps positioning research. Good for org design thinking.
+- **High Alpha 2025 SaaS Benchmarks (highalpha.com)** — NRR at $20M+ ARR analysis; NRR 120%+ = 2.3x higher valuations. Good quality data.
+- **Runway 2026 burn multiple benchmarks (runway.com/blog)** — Burn multiple by ARR band; $25-50M target <1.0x. Useful for capital efficiency benchmarking.
+- **Fullcast 2026 GTM Benchmarks (fullcast.com)** — State of GTM in 2026; S&M as % of revenue VC vs. PE. Tier 2, directionally useful.
+- **Bessemer Atlas (bvp.com/atlas)** — CFO Playbook (Dec 2024); Scaling to $100M framework. Tier 1 for SaaS finance frameworks.
+
 ## Tier 1 — High Signal (Consistently valuable)
 - **Hackett Group Finance Benchmarks** — Best source for close cycle and operational efficiency benchmarks (mid-market)
 - **Grant Thornton CFO Survey** — 230+ finance leaders, quarterly, 21-quarter history; excellent for peer benchmarking on AI spend intent

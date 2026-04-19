@@ -1,5 +1,25 @@
 # Research Log
 
+## Session — 2026-04-19
+**Question:** Saturday Deep Dive — Finance-Led GTM Models at $15-30M ARR SaaS Companies (highest-priority actionable backlog item)
+**Briefs produced:** briefs/2026-04-19-finance-led-gtm.md, podcasts/2026-04-19-finance-led-gtm.md
+**Key findings:**
+- GTM effectiveness fell from 78% (2018) to 47% (2025) across 478 B2B companies — root cause: marketing/sales cannot prove causality, CFOs fill the vacuum with cost control. Fix = causal measurement infrastructure
+- $20M ARR is the inflection point where expansion becomes the dominant growth engine: companies in $15-30M ARR band generate 40% of new ARR from expansion (up from 25% in 2022)
+- NRR math: top-quartile (110%) vs. median (101%) = $3.8M ARR gap over 2 years on a $20M base — fully recoverable from existing customers
+- Benchmarks (2025): median NRR 101%, GRR 88%, growth 26%, CAC payback 15 months, S&M 47% of revenue (VC-backed), burn multiple 1.5-2x; Rule of 40 achieved by only 11-30% of companies
+- Hunter-Farmer-Rancher: only 15% of SaaS companies run properly bifurcated model; Rancher (60% hunt, 40% farm, 60/40 comp) generates 30% YoY growth; one $20M book grew to $35M in 2 years via expansion-only focus
+- Comp design: Hunters 50/50, Farmers 70/30, Ranchers 60/40; handoff SLA is #1 failure point; without separate expansion quotas, AEs hunt because hunting pays more
+- Pricing is highest-leverage lever: 1% improvement = 8-11% operating profit; 78% of SaaS now use value-based (up from 62%); per-unit pricing in PM vertical is structurally expansion-friendly
+- Finance-RevOps org risk: when RevOps reports to CFO, comp plans risk shifting toward cost savings over performance (Forrester 2025). Fix: Finance architects the rules (NRR targets, comp design, GTM ROI thresholds), CRO owns execution
+- Causal measurement (vs. correlation/attribution) is the path to Finance leading GTM as a growth function — not just cost controller
+**Follow-ups identified:**
+- Pull NRR by segment (ACV tier, CS rep, PM integration, geography) — this week
+- Audit AE comp plans for expansion vs. new logo differentiation — before Q3 quota-setting
+- Form pricing committee in May 2026 (Finance + RevOps + CS + senior AE)
+- Build GTM causal measurement system — Q2-Q3 2026 project
+- AppFolio Q1 2026 earnings April 23 — still CRITICAL, block 5 PM ET
+
 ## Session — 2026-04-18
 **Question:** Saturday Deep Dive — CFO-Facing ROI Model for PM Company Buyers (highest-priority backlog item)
 **Briefs produced:** briefs/2026-04-18-cfo-roi-model-pm-buyers.md, podcasts/2026-04-18-cfo-roi-model-pm-buyers.md

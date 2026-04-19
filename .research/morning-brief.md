@@ -1,60 +1,62 @@
-# Morning Brief — April 18, 2026
-**Topic:** Saturday Deep Dive — CFO ROI Model for PM Company Buyers  
-**Prepared for:** Head of Finance & RevOps, Opiniion ($20M ARR)
+# Morning Brief — April 19, 2026
+**Topic:** Saturday Deep Dive — Finance-Led GTM: The $20M ARR Playbook
+**Backlog item completed:** Finance-led GTM models at $15-30M ARR SaaS companies
 
 ---
 
 ## Headlines
 
-- **Turnover is a $2.65M annual problem on a 1,000-unit portfolio** — $4,000/unit make-ready + $2,321 vacancy loss per turn × 420 annual turnovers = 13.4% of revenue; most PM CFOs have no dedicated line item for it
-- **A 3% renewal rate improvement pays for Opiniion in under 2 months** — $190K annual avoided cost vs. ~$30K estimated platform spend; 6.3x ROI in the moderate scenario
-- **Finance leaders are now Opiniion's real buying center** — NOI squeeze (insurance +55% since 2021, maintenance 30% above pre-pandemic) has made CFOs the final gate on software approvals; they need a model, not a pitch
-- **The 5-point retention gap is actionable, not structural** — industry averages 58% renewal vs. 63% target; managers blame "life changes" but 40% of at-risk renters cite poor maintenance response — exactly what Opiniion captures
-- **Payback anchor: "We cost less than 5 prevented turnovers"** — one full turnover (make-ready + vacancy loss) costs $6,300; a year of Opiniion for 1,000 units at $30/unit = $30K = fewer than 5 prevented turns
+- **At $20M ARR, 40% of new revenue should come from expansion** — up from 25% in 2022. Most companies are leaving $1.8M+ on the table by treating expansion as a passive motion (Maxio 2025)
+- **GTM effectiveness has fallen from 78% to 47% since 2018** — root cause: sales/marketing can't prove causality. CFOs fill the vacuum with budget cuts. The fix is causal measurement, not more dashboards (MarTech, 478-company dataset)
+- **NRR gap at $20M ARR = $3.8M over 2 years** — median NRR (101%) vs. top quartile (110%). Fully recoverable through comp redesign, pricing, and CS alignment — before touching new logo acquisition
+- **The Rancher is the new Hunter-Farmer** — 60/40 new/expansion split, 60/40 comp. One team grew a $20M book of business to $35M in 2 years using expansion-only focus. Only 15% of SaaS companies have properly differentiated comp models
+- **1% pricing improvement = 8-11% operating profit** — the highest-leverage GTM lever, and the one most clearly in finance's lane. Property management per-unit pricing is structurally expansion-friendly — but requires quarterly review to prevent value leakage
 
 ---
 
 ## What Changed Recently
 
-- **Feb 2026 vacancy fill time hit 40 days** — longest February average since 2019 (Leasey.AI); vacancy loss per turn now $2,321 at $1,741/month avg national rent (Yardi Matrix Jan 2026)
-- **NAA 2024 data shows concessions up 30.9% YoY** — operators paying $82/unit to fill vacancies on top of make-ready; rising concession spend signals market-rate oversupply in Sunbelt
-- **B2B SaaS entering "Accountable ROI" era in 2026** — CFOs now routinely participate in mid-market tech purchases; deals stall when finance leaders are brought in at contract stage with no business case
-- **Grace Hill's Kingsley Index: 7M+ residents/year** — largest resident satisfaction database in PM; their data confirms satisfaction-renewal correlation is "undeniable" and directly tied to NOI
+- **Expansion % of new ARR jumped from 25% → 40%** at the $15-30M ARR band between 2022 and 2025 — a structural shift making expansion non-discretionary at this stage
+- **New CAC ratio rose 14% in 2025** to $2.00 per $1 of new ARR — making the economic case for expansion vs. acquisition stronger than it's ever been
+- **RevOps reporting to CFO is a growing trend** — but Forrester 2025 warns it risks aligning comp plans to cost savings rather than performance; Finance must architect the game, not micromanage execution
+- **78% of SaaS companies now use value-based pricing** (up from 62% in 2023) — what differentiates top performers is the process (pricing committee), not just the philosophy
+- **NRR at 120%+ yields 2.3x higher valuations** — at a $20M ARR company, this gap can mean $15-25M in additional exit proceeds
 
 ---
 
 ## Action Items (Top 3)
 
-1. **Build the CFO one-pager** — Single-page PDF with the buyer's own numbers plugged in (unit count × renewal rate × make-ready cost). Conservative/moderate/optimistic scenarios. Include the "under 2 months payback" callout. Route through Marketing. This is the #1 deal-acceleration tool Opiniion is missing. Timeline: 2-3 weeks.
+1. **Pull NRR by segment this week** — total NRR, GRR, and expansion ARR % from HubSpot + billing. Break out by: ACV tier, CS rep, PM software integration, geography. This single analysis quantifies the gap and targets where to act. (Effort: Low. Impact: High — identifies $500K-$2M+ opportunity.)
 
-2. **Pilot the ROI model in the next 3 sales calls** — Ask in discovery: "What's your current renewal rate? What's your average make-ready cost?" Personalize the model live. Track whether CFO involvement increases or whether champions can defend the ROI independently. Report back to Sales Leadership within 30 days.
+2. **Audit AE comp plans before Q3 quota-setting** — do AEs have separate quotas for expansion vs. new logo? Is expansion commission at least 8-15% of deal value? If not, AEs are systematically under-incentivized to expand. Redesign before Q3 comp letters go out.
 
-3. **Commission a formal Opiniion retention study** — Work with Opiniion's data team to turn the 582-community Yardi case study into a published benchmark (before/after renewal rates, feedback response rates, NOI impact). This becomes the primary-source claim that replaces industry proxies in the sales motion. Timeline: Q2-Q3 2026.
+3. **Schedule the first pricing committee for May** — Finance + RevOps + CS lead + one senior AE. One agenda item: where are deals dying on packaging? What's the #1 expansion blocker? One test to run next quarter. Monthly cadence from there.
 
 ---
 
 ## Numbers That Matter
 
-| Metric | Value | Source |
-|---|---|---|
-| Avg national rent (Jan 2026) | $1,741/month | Yardi Matrix Q1 2026 |
-| Cost per unit turnover (all-in) | $4,000 | NAA / 2024 REM Report |
-| Lost rent per vacancy (40 days) | $2,321 | Calculated |
-| Annual turnovers (1K units, 42% turnover) | 420 units | Calculated |
-| Total turnover cost (1K units) | $2,654,820/yr | Calculated |
-| As % of portfolio revenue | 13.4% | Calculated |
-| Savings from 3% renewal improvement | $189,630/yr | Calculated |
-| ROI at $30K platform cost | 6.3x | Calculated |
-| Payback period (moderate, $30K) | 1.9 months | Calculated |
-| Industry avg renewal rate | 58% | Buildium 2026 |
-| Industry target renewal rate | 63% | Buildium 2026 |
-| At-risk renters who'd stay for better maintenance | 40% | Buildium 2026 |
-| Avg vacancy fill time (Feb 2026) | 40 days | Leasey.AI 2026 |
-| NAA concessions per unit/year | $82 (↑30.9% YoY) | NAA IES 2024 |
+| Metric | 2025 Median | Top Quartile | Gap at $20M ARR Base |
+|---|---|---|---|
+| NRR | 101% | 110% | $1.8M/yr ($3.8M over 2 years) |
+| GRR | 88% | 92% | ~$800K in recoverable churn |
+| Expansion % of New ARR | 30% | 40%+ | $2M+ at $20M base |
+| CAC Payback | 15 months | 12 months | 3 months of freed cash |
+| Burn Multiple | 1.5-2.0x | <1.5x | Significant runway extension |
+| Rule of 40 | ~25-30 | 40+ | 9.4x vs. 3.5x valuation |
+| New CAC Ratio | $2.00/$1 ARR | $1.50 | $500K saved per $1M new ARR |
+| Pricing 1% improvement | → | → | 8-11% operating profit |
 
 ---
 
-## Full Deliverables
+## Links
 
-- **Executive Brief:** `.research/briefs/2026-04-18-cfo-roi-model-pm-buyers.md`
-- **Podcast Script:** `.research/podcasts/2026-04-18-cfo-roi-model-pm-buyers.md`
+- **Full Brief:** `.research/briefs/2026-04-19-finance-led-gtm.md`
+- **Podcast Script:** `.research/podcasts/2026-04-19-finance-led-gtm.md`
+
+---
+
+## Next Up
+
+- **Monday April 21:** Competitor Intelligence (AppFolio, Buildium, RealPage, Entrata — 2-day window before AppFolio earnings)
+- **CRITICAL — Wednesday April 23:** AppFolio Q1 2026 earnings call at 5 PM ET — block calendar now. Any resident experience module announcement = highest-priority threat signal. Review transcript within 24 hours.
