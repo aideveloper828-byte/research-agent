@@ -1,62 +1,69 @@
-# Morning Brief — April 19, 2026
-**Topic:** Saturday Deep Dive — Finance-Led GTM: The $20M ARR Playbook
-**Backlog item completed:** Finance-led GTM models at $15-30M ARR SaaS companies
+# Morning Brief — Sunday, April 20, 2026
+**Topic:** Week in Review — Weekly Synthesis  
+**Covers:** April 14–20, 2026 | 6 briefs | Competitor intelligence, AI finance stack, PropTech trends, CFO ROI model, Finance-led GTM
 
 ---
 
 ## Headlines
 
-- **At $20M ARR, 40% of new revenue should come from expansion** — up from 25% in 2022. Most companies are leaving $1.8M+ on the table by treating expansion as a passive motion (Maxio 2025)
-- **GTM effectiveness has fallen from 78% to 47% since 2018** — root cause: sales/marketing can't prove causality. CFOs fill the vacuum with budget cuts. The fix is causal measurement, not more dashboards (MarTech, 478-company dataset)
-- **NRR gap at $20M ARR = $3.8M over 2 years** — median NRR (101%) vs. top quartile (110%). Fully recoverable through comp redesign, pricing, and CS alignment — before touching new logo acquisition
-- **The Rancher is the new Hunter-Farmer** — 60/40 new/expansion split, 60/40 comp. One team grew a $20M book of business to $35M in 2 years using expansion-only focus. Only 15% of SaaS companies have properly differentiated comp models
-- **1% pricing improvement = 8-11% operating profit** — the highest-leverage GTM lever, and the one most clearly in finance's lane. Property management per-unit pricing is structurally expansion-friendly — but requires quarterly review to prevent value leakage
+- **AppFolio earnings April 23 at 5 PM ET** — 3 days away. The single most important competitive intelligence event of Q2. Any signal about Realm-X expanding into resident experience is a red alert.
+- **RealPage hired its first Chief Fintech Officer** — pivoting explicitly to payments and financial services, not resident experience. The Buildium partnership window just opened.
+- **NetSuite 2026.1 is live with AI close and cash tools** — included in your existing license. Intelligent Close Manager, Payment Date Predictions, GenAI flux analysis. Activate this week.
+- **The CFO ROI model is done**: 1,000-unit portfolio, 42% turnover, $2.65M annual problem. A 3% renewal improvement pays back Opiniion in 1.9 months at $30K platform cost.
+- **At $20M ARR, expansion is the mandate**: top-quartile NRR (110%) vs. median (101%) = $3.8M additional ARR over 2 years. NRR audit should be the first RevOps action of Q2.
 
 ---
 
-## What Changed Recently
+## What Changed This Week
 
-- **Expansion % of new ARR jumped from 25% → 40%** at the $15-30M ARR band between 2022 and 2025 — a structural shift making expansion non-discretionary at this stage
-- **New CAC ratio rose 14% in 2025** to $2.00 per $1 of new ARR — making the economic case for expansion vs. acquisition stronger than it's ever been
-- **RevOps reporting to CFO is a growing trend** — but Forrester 2025 warns it risks aligning comp plans to cost savings rather than performance; Finance must architect the game, not micromanage execution
-- **78% of SaaS companies now use value-based pricing** (up from 62% in 2023) — what differentiates top performers is the process (pricing committee), not just the philosophy
-- **NRR at 120%+ yields 2.3x higher valuations** — at a $20M ARR company, this gap can mean $15-25M in additional exit proceeds
+| Area | Last Week | This Week | Signal |
+|---|---|---|---|
+| RealPage competitive threat | General platform concern | Explicit fintech pivot confirmed | ↓ threat to resident experience layer |
+| Entrata competitive threat | Agentic AI platform threat | Platform-locked — non-Entrata customers unserved | Stable — cross-platform moat confirmed |
+| AppFolio competitive threat | Earnings watch upcoming | **3 days to Q1 call** — block April 23, 5 PM ET | ⚠️ Critical watch |
+| NetSuite AI tools | Available but not activated | Live in 2026.1 — activation is free | Action required now |
+| CFO ROI model | Conceptual talking point | Full bottom-up model built and documented | Ready to deploy |
+| GTM strategy | Hunter/farmer discussion | Full $20M ARR expansion playbook researched | Comp audit needed Q2 |
 
 ---
 
-## Action Items (Top 3)
+## Top 3 Action Items
 
-1. **Pull NRR by segment this week** — total NRR, GRR, and expansion ARR % from HubSpot + billing. Break out by: ACV tier, CS rep, PM software integration, geography. This single analysis quantifies the gap and targets where to act. (Effort: Low. Impact: High — identifies $500K-$2M+ opportunity.)
+**1. Block April 23, 5 PM ET — AppFolio Earnings (CRITICAL)**  
+Listen live or read transcript within 24 hours. Watch Q&A for any question about "Realm-X expansion" or "new product categories." A resident experience module announcement from AppFolio is the highest-probability competitive disruption event in the next 90 days.
 
-2. **Audit AE comp plans before Q3 quota-setting** — do AEs have separate quotas for expansion vs. new logo? Is expansion commission at least 8-15% of deal value? If not, AEs are systematically under-incentivized to expand. Redesign before Q3 comp letters go out.
+**2. Activate NetSuite 2026.1 AI Features — This Week (Zero Cost)**  
+Ask your NetSuite admin to enable: Intelligent Close Manager, Payment Date Predictions, GenAI bank matching, GenAI flux analysis. All included in existing license. Expected impact: 2-3 days off close, 2-3 hours saved per board cycle.
 
-3. **Schedule the first pricing committee for May** — Finance + RevOps + CS lead + one senior AE. One agenda item: where are deals dying on packaging? What's the #1 expansion blocker? One test to run next quarter. Monthly cadence from there.
+**3. Build the CFO One-Pager ROI Tool — Within 2 Weeks**  
+A one-page PDF where PM company champions can input their unit count and current renewal rate and see their personalized avoided-cost projection and payback period. Deal-stage CFO introductions stall without this. Template: "At X units and Y% renewal rate, you're spending $Z on annual turnover. A 3-point improvement pays for the platform in N weeks."
 
 ---
 
 ## Numbers That Matter
 
-| Metric | 2025 Median | Top Quartile | Gap at $20M ARR Base |
-|---|---|---|---|
-| NRR | 101% | 110% | $1.8M/yr ($3.8M over 2 years) |
-| GRR | 88% | 92% | ~$800K in recoverable churn |
-| Expansion % of New ARR | 30% | 40%+ | $2M+ at $20M base |
-| CAC Payback | 15 months | 12 months | 3 months of freed cash |
-| Burn Multiple | 1.5-2.0x | <1.5x | Significant runway extension |
-| Rule of 40 | ~25-30 | 40+ | 9.4x vs. 3.5x valuation |
-| New CAC Ratio | $2.00/$1 ARR | $1.50 | $500K saved per $1M new ARR |
-| Pricing 1% improvement | → | → | 8-11% operating profit |
+| Metric | Number | Context |
+|---|---|---|
+| AppFolio earnings call | April 23, 5 PM ET | 3 days away — highest-priority calendar block |
+| RealPage AI % of revenue | ~25% | Focused on screening + payments, NOT resident experience |
+| NetSuite 2026.1 AI features | $0 additional cost | Included in existing license; activate now |
+| Ramp AP agent time reduction | 80%+ | REVA Air: 15-20 min → <3 min per invoice |
+| Annual cost of turnover (1K units) | $2.65M | 13.4% of effective revenue at 58% renewal rate |
+| Payback period on Opiniion | 1.9 months | Moderate scenario: 3pp renewal improvement, $30K platform |
+| Expansion % of new ARR at $20M | 40% industry target | Opiniion's first NRR segment audit = Q2 priority |
+| NRR gap (101% → 110% NRR) | $1.8M/year additional ARR | Without a single new logo |
+| PropTech M&A deals in 2025 | 163 (first 11 months) | Monitor integration partner acquisition risk |
+| PM companies using AI (2026) | 58% | Customers are AI-aware; Opiniion's integration story matters more |
+| Industry renewal rate gap | 58% actual vs. 63% target | The 5% gap is Opiniion's core value proposition |
 
 ---
 
 ## Links
 
-- **Full Brief:** `.research/briefs/2026-04-19-finance-led-gtm.md`
-- **Podcast Script:** `.research/podcasts/2026-04-19-finance-led-gtm.md`
-
----
-
-## Next Up
-
-- **Monday April 21:** Competitor Intelligence (AppFolio, Buildium, RealPage, Entrata — 2-day window before AppFolio earnings)
-- **CRITICAL — Wednesday April 23:** AppFolio Q1 2026 earnings call at 5 PM ET — block calendar now. Any resident experience module announcement = highest-priority threat signal. Review transcript within 24 hours.
+- **Executive Brief:** [briefs/2026-04-20-weekly-synthesis.md](briefs/2026-04-20-weekly-synthesis.md)
+- **Podcast Script:** [podcasts/2026-04-20-weekly-synthesis.md](podcasts/2026-04-20-weekly-synthesis.md)
+- **CFO ROI Model:** [briefs/2026-04-18-cfo-roi-model-pm-buyers.md](briefs/2026-04-18-cfo-roi-model-pm-buyers.md)
+- **Finance-Led GTM Playbook:** [briefs/2026-04-19-finance-led-gtm.md](briefs/2026-04-19-finance-led-gtm.md)
+- **AI Finance Stack Guide:** [briefs/2026-04-16-ai-finance-ops.md](briefs/2026-04-16-ai-finance-ops.md)
+- **Competitor Intelligence (April 13):** [briefs/2026-04-13-competitor-intelligence.md](briefs/2026-04-13-competitor-intelligence.md)
+- **GitHub Repository:** research-agent (main branch)

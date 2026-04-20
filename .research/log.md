@@ -1,5 +1,22 @@
 # Research Log
 
+## Session — 2026-04-20
+**Question:** Sunday Weekly Synthesis — Week in Review covering April 14–20, 2026
+**Briefs produced:** briefs/2026-04-20-weekly-synthesis.md, podcasts/2026-04-20-weekly-synthesis.md
+**Key findings:**
+- Top 3 insights of the week: (1) RealPage fintech pivot + Entrata platform lock = best competitive setup Opiniion has ever had; (2) Finance stack upgrade is largely free — NetSuite 2026.1 AI features are live in existing license; (3) CFO is the new PM company buying center, and the 1.9-month payback ROI model turns Opiniion from discretionary to mandatory.
+- Competitor scoreboard: AppFolio 🔴 HIGH (earnings April 23, 5 PM ET — block now); Entrata 🔴 HIGH (native but platform-locked); RealPage/Buildium 🟡 MEDIUM (fintech pivot opens Buildium gap); Yardi 🟢 LOW-MEDIUM (adjacent verticals focus).
+- Week's most actionable output: Full CFO ROI model for PM buyers — $2.65M turnover problem on 1K units, 1.9-month payback, CFO one-pager ready to build.
+- NRR inflection: $20M ARR is the expansion mandate inflection — 40% of new ARR should come from existing customers; NRR top quartile (110%) vs. median (101%) = $3.8M gap over 2 years.
+- Finance stack: NetSuite 2026.1 AI features (free), Ramp AP agents (existing vendor), Numeric ($20K-40K) as Gartner three-tier portfolio framework guides investment.
+- Prioritized weekly actions: (1) Block AppFolio earnings April 23, 5 PM ET; (2) Activate NetSuite 2026.1 AI features this week; (3) Build CFO one-pager ROI tool in 2 weeks; (4) Pull NRR by segment Q2; (5) Initiate Buildium partnership conversation.
+**Follow-ups identified:**
+- AppFolio Q1 2026 earnings April 23, 5 PM ET — CRITICAL (remains highest priority)
+- NRR segment audit — initiate Q2 (by May board meeting)
+- CFO one-pager PDF for PM company buyers — build within 2 weeks
+- Hunter-Farmer comp redesign — before Q3 quota-setting
+- NetSuite 2026.1 AI feature activation — this week (zero cost)
+
 ## Session — 2026-04-19
 **Question:** Saturday Deep Dive — Finance-Led GTM Models at $15-30M ARR SaaS Companies (highest-priority actionable backlog item)
 **Briefs produced:** briefs/2026-04-19-finance-led-gtm.md, podcasts/2026-04-19-finance-led-gtm.md
