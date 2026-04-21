@@ -11,8 +11,8 @@
   Context: At $20M ARR, contract complexity grows. Trullion, Tabs, Stripe Rev Rec comparison needed.
 - [ ] Yardi Marketplace partner listing requirements — added 2026-04-13 — priority: medium
   Context: Yardi expanding into adjacent verticals, not deepening multifamily AI. Institutional Yardi customers have growing resident experience gap. What does it take to get listed?
-- [ ] AppFolio earnings call April 23 debrief — added 2026-04-13 — priority: CRITICAL ⚠️ 3 DAYS AWAY
-  Context: Block 5 PM ET April 23. Review transcript within 24 hours. Any resident experience module announcement = highest-priority threat signal. Watch Q&A for "Realm-X expansion" or "new product categories."
+- [ ] AppFolio earnings call April 23 debrief — added 2026-04-13 — priority: CRITICAL ⚠️ 48 HOURS AWAY
+  Context: Block 5 PM ET April 23. Review transcript within 24 hours. Any resident experience module announcement = highest-priority threat signal. Watch Q&A for "Realm-X expansion" or "new product categories." Also watch for any Birdeye acquisition discussion.
 - [ ] CFO one-pager PDF for PM company buyers — added 2026-04-20 — priority: HIGH
   Context: Full ROI model built (April 18 brief). Now needs to become a 1-page PDF champions can forward to their CFO. Input: unit count + renewal rate + avg rent. Output: personalized avoided-cost + payback. Build within 2 weeks.
 - [ ] NRR segment audit — added 2026-04-20 — priority: HIGH
@@ -21,8 +21,10 @@
   Context: Only 15% of SaaS companies run properly bifurcated model. Without separate expansion quotas, AEs hunt because hunting pays more. Audit before Q3 quota-setting (typically June-July). Finance leads design; CRO implements.
 - [ ] NetSuite 2026.1 AI feature activation — added 2026-04-20 — priority: HIGH (zero cost)
   Context: Intelligent Close Manager, AI Payment Date Predictions, GenAI bank matching, GenAI flux analysis all included in existing license. Configuration-only. Ask NetSuite admin this week.
-- [ ] Buildium partnership channel analysis — added 2026-04-13 — priority: high
-  Context: RealPage's strategic focus is now fintech/payments (new Chief Fintech Officer). Buildium customers have no native resident satisfaction tool. Who is the right contact at Buildium for a partnerships conversation?
+- [ ] Buildium partnership channel analysis — added 2026-04-13 — priority: HIGH (escalated 2026-04-21)
+  Context: RealPage's strategic focus is now fintech/payments (new Chief Fintech Officer, DOJ settlement finalized, compliance monitor installed). Buildium customers (17,000+, 2M+ units) have zero native resident satisfaction tooling. RealPage roadmap explicitly does not include resident experience. This is an open channel. Who is the right contact at Buildium for a partnerships conversation? Initiate this quarter.
+- [ ] Entrata + Opiniion positioning document — added 2026-04-21 — priority: high
+  Context: Entrata launched 100+ agentic AI system (March 24). Operations-focused, platform-locked. Resident satisfaction layer is untouched. Need a one-pager: "Entrata handles operations, Opiniion handles resident relationships." Use in every sales conversation with Entrata customer or prospect.
 - [x] CFO-facing ROI model for PM company buyers — completed 2026-04-18 — priority: HIGH
   Brief: briefs/2026-04-18-cfo-roi-model-pm-buyers.md
   Key output: Full bottom-up model built. 1K units, 42% turnover, $2.65M/yr problem. 3% improvement = $190K saved, 1.9-month payback at $30K platform cost. Build interactive calculator and CFO one-pager next.

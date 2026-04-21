@@ -1,5 +1,20 @@
 # Research Log
 
+## Session — 2026-04-21
+**Question:** Monday Competitor Intelligence — AppFolio, RealPage/Buildium, Entrata, Yardi, Rent Manager, ResMan
+**Briefs produced:** briefs/2026-04-21-competitor-intelligence.md, podcasts/2026-04-21-competitor-intelligence.md
+**Key findings:**
+- Entrata launched "industry's first agentic property management system" March 24, 2026: 100+ embedded AI agents (leasing, maintenance, accounting, payments), OXP Studio for agent governance, $4.3B valuation. Platform-locked — no resident satisfaction module.
+- AppFolio Q1 2026 earnings April 23, 5 PM ET (48 hrs away): 2026 guidance $1.1B–$1.12B; AI adopters forecast 31% portfolio growth vs. 12% non-adopters; Realm-X agents save 10 hrs/week, +73% lead conversion. No native resident satisfaction module announced.
+- RealPage post-DOJ: settled Nov 2025, $0 penalty, compliance monitor. New CEO Dirk Wakeham, new Chief Fintech Officer (payments focus). Buildium (17K customers) has zero native resident satisfaction tooling — confirmed gap.
+- Yardi Virtuoso: first PropTech Anthropic Claude connector, 60% AP processing reduction, 78% query resolution without escalation. New verticals: MH Manager + self-storage. No multifamily resident experience play.
+- Rent Manager: 10 new integrations in Q1, Orion AI for report summarization. Partner-friendly posture.
+**Follow-ups identified:**
+- April 23, 5 PM ET — AppFolio Q1 earnings call — CRITICAL (block now)
+- Buildium partnership outreach — initiate this quarter
+- Entrata + Opiniion positioning doc — draft within 3 weeks
+- Yardi Marketplace listing application — research requirements this week
+
 ## Session — 2026-04-20
 **Question:** Sunday Weekly Synthesis — Week in Review covering April 14–20, 2026
 **Briefs produced:** briefs/2026-04-20-weekly-synthesis.md, podcasts/2026-04-20-weekly-synthesis.md

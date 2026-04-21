@@ -1,42 +1,41 @@
-# Morning Brief — Sunday, April 20, 2026
-**Topic:** Week in Review — Weekly Synthesis  
-**Covers:** April 14–20, 2026 | 6 briefs | Competitor intelligence, AI finance stack, PropTech trends, CFO ROI model, Finance-led GTM
+# Morning Brief — Monday, April 21, 2026
+**Topic:** Competitor Intelligence — AppFolio, Entrata, RealPage, Yardi, Rent Manager, ResMan
+**Covers:** Latest product launches, leadership moves, AI investments, earnings watch
 
 ---
 
 ## Headlines
 
-- **AppFolio earnings April 23 at 5 PM ET** — 3 days away. The single most important competitive intelligence event of Q2. Any signal about Realm-X expanding into resident experience is a red alert.
-- **RealPage hired its first Chief Fintech Officer** — pivoting explicitly to payments and financial services, not resident experience. The Buildium partnership window just opened.
-- **NetSuite 2026.1 is live with AI close and cash tools** — included in your existing license. Intelligent Close Manager, Payment Date Predictions, GenAI flux analysis. Activate this week.
-- **The CFO ROI model is done**: 1,000-unit portfolio, 42% turnover, $2.65M annual problem. A 3% renewal improvement pays back Opiniion in 1.9 months at $30K platform cost.
-- **At $20M ARR, expansion is the mandate**: top-quartile NRR (110%) vs. median (101%) = $3.8M additional ARR over 2 years. NRR audit should be the first RevOps action of Q2.
+- **AppFolio earnings in 48 hours** (April 23, 5 PM ET) — Q4 2025 beat estimates ($248M revenue, +22% YoY). Realm-X AI now saves users 10 hrs/week and lifts lead-to-showing conversion 73%. Watch for any mention of resident satisfaction or new product categories.
+- **Entrata launched 100+ embedded AI agents on March 24** — "Industry's first agentic property management system." OXP Studio lets operators build custom no-code agents. Platform-locked to Entrata customers. Resident relationship intelligence layer is untouched.
+- **RealPage's post-DOJ pivot is fintech, not resident experience** — Chief Fintech Officer hired (payments focus). DOJ settlement has no financial penalty. Buildium's 17,000+ customers have zero native resident satisfaction tooling — confirmed gap.
+- **Yardi Virtuoso is deeper than expected** — First Anthropic Claude connector in PropTech, 60% AP time reduction, 78% support query resolution without escalation. New products: manufactured housing, self-storage. No multifamily resident satisfaction play.
+- **Rent Manager added 10 new integrations in Q1 2026** — Orion AI for report summarization, unified market rent and renewal workflow. Open, partner-friendly platform with no resident satisfaction module.
 
 ---
 
-## What Changed This Week
+## What Changed Since Last Week
 
-| Area | Last Week | This Week | Signal |
+| Area | April 13 | April 21 | Signal |
 |---|---|---|---|
-| RealPage competitive threat | General platform concern | Explicit fintech pivot confirmed | ↓ threat to resident experience layer |
-| Entrata competitive threat | Agentic AI platform threat | Platform-locked — non-Entrata customers unserved | Stable — cross-platform moat confirmed |
-| AppFolio competitive threat | Earnings watch upcoming | **3 days to Q1 call** — block April 23, 5 PM ET | ⚠️ Critical watch |
-| NetSuite AI tools | Available but not activated | Live in 2026.1 — activation is free | Action required now |
-| CFO ROI model | Conceptual talking point | Full bottom-up model built and documented | Ready to deploy |
-| GTM strategy | Hunter/farmer discussion | Full $20M ARR expansion playbook researched | Comp audit needed Q2 |
+| AppFolio earnings | 10 days out | **48 hours** — April 23, 5 PM ET | ⚠️ Final pre-call window |
+| Entrata AI | 2025 AI expansion noted | **100+ agent launch confirmed, OXP Studio live** | 🔴 Competitor escalation |
+| RealPage/Buildium | Fintech pivot announced | DOJ settlement terms detailed, compliance monitor installed | Stable — resident exp. gap confirmed |
+| Yardi strategy | Adjacency expansion signaled | MH Manager + self-storage launches confirmed; Claude connector first in industry | Laterally moving, not vertically deepening |
+| Rent Manager | Not tracked | 10 new integrations, Orion AI, fast iteration | Potential partner — investigate |
 
 ---
 
 ## Top 3 Action Items
 
-**1. Block April 23, 5 PM ET — AppFolio Earnings (CRITICAL)**  
-Listen live or read transcript within 24 hours. Watch Q&A for any question about "Realm-X expansion" or "new product categories." A resident experience module announcement from AppFolio is the highest-probability competitive disruption event in the next 90 days.
+**1. Block April 23, 5 PM ET — AppFolio Earnings (CRITICAL, 48 HRS)**
+Listen live or pull transcript within 24 hours. Listen for Q&A on "resident experience," "new product categories," "adjacent markets," or any analyst asking about non-operational AI expansion. A native resident satisfaction announcement from AppFolio is the single highest-probability competitive event of Q2.
 
-**2. Activate NetSuite 2026.1 AI Features — This Week (Zero Cost)**  
-Ask your NetSuite admin to enable: Intelligent Close Manager, Payment Date Predictions, GenAI bank matching, GenAI flux analysis. All included in existing license. Expected impact: 2-3 days off close, 2-3 hours saved per board cycle.
+**2. Initiate Buildium Partnership Outreach This Quarter**
+RealPage will not build a resident satisfaction tool for Buildium. 17,000+ customers. No native option. This is a channel partner opportunity that is definitively uncontested by the parent company's roadmap. Finance needs to validate the economics; CRO executes outreach. Start this week.
 
-**3. Build the CFO One-Pager ROI Tool — Within 2 Weeks**  
-A one-page PDF where PM company champions can input their unit count and current renewal rate and see their personalized avoided-cost projection and payback period. Deal-stage CFO introductions stall without this. Template: "At X units and Y% renewal rate, you're spending $Z on annual turnover. A 3-point improvement pays for the platform in N weeks."
+**3. Draft the "Entrata + Opiniion" Positioning Narrative**
+Entrata's 100-agent OXP announcement is getting industry press. Use it. The frame: Entrata handles operations (leasing, maintenance, invoices), Opiniion handles resident relationships (satisfaction, NPS, renewal prediction). Write a one-pager within 3 weeks. This is a pre-built objection handler for every sales conversation with an Entrata customer.
 
 ---
 
@@ -44,26 +43,23 @@ A one-page PDF where PM company champions can input their unit count and current
 
 | Metric | Number | Context |
 |---|---|---|
-| AppFolio earnings call | April 23, 5 PM ET | 3 days away — highest-priority calendar block |
-| RealPage AI % of revenue | ~25% | Focused on screening + payments, NOT resident experience |
-| NetSuite 2026.1 AI features | $0 additional cost | Included in existing license; activate now |
-| Ramp AP agent time reduction | 80%+ | REVA Air: 15-20 min → <3 min per invoice |
-| Annual cost of turnover (1K units) | $2.65M | 13.4% of effective revenue at 58% renewal rate |
-| Payback period on Opiniion | 1.9 months | Moderate scenario: 3pp renewal improvement, $30K platform |
-| Expansion % of new ARR at $20M | 40% industry target | Opiniion's first NRR segment audit = Q2 priority |
-| NRR gap (101% → 110% NRR) | $1.8M/year additional ARR | Without a single new logo |
-| PropTech M&A deals in 2025 | 163 (first 11 months) | Monitor integration partner acquisition risk |
-| PM companies using AI (2026) | 58% | Customers are AI-aware; Opiniion's integration story matters more |
-| Industry renewal rate gap | 58% actual vs. 63% target | The 5% gap is Opiniion's core value proposition |
+| AppFolio Q1 2026 earnings | April 23, 5 PM ET | 48 hours — final window before call |
+| AppFolio 2026 revenue guidance | $1.10B–$1.12B | Full-year; Q4 2025 was $248M (+22% YoY) |
+| AppFolio Realm-X weekly time savings | 10 hrs/user/week | Per AppFolio data; leasing conversion lift = +73% |
+| AI adopter portfolio growth forecast | 31% (vs. 12% non-AI) | AppFolio 2026 Benchmark Report, n=1,617 PM professionals |
+| Entrata AI agents launched | 100+ | March 24, 2026 — leasing, maintenance, accounting, payments |
+| Entrata valuation (Blackstone, 2025) | $4.3B | $200M minority investment |
+| Buildium customers | 17,000+ | 2M+ units; RealPage-owned; zero resident satisfaction tooling |
+| RealPage DOJ settlement penalty | $0 | No financial penalty; compliance monitor installed |
+| Yardi AP processing time cut | 60% | Virtuoso AI agents; first Anthropic Claude connector |
+| PropTech market size (2026) | $54.66B | Growing to $185B by 2034 at 16.4% CAGR |
 
 ---
 
 ## Links
 
-- **Executive Brief:** [briefs/2026-04-20-weekly-synthesis.md](briefs/2026-04-20-weekly-synthesis.md)
-- **Podcast Script:** [podcasts/2026-04-20-weekly-synthesis.md](podcasts/2026-04-20-weekly-synthesis.md)
-- **CFO ROI Model:** [briefs/2026-04-18-cfo-roi-model-pm-buyers.md](briefs/2026-04-18-cfo-roi-model-pm-buyers.md)
-- **Finance-Led GTM Playbook:** [briefs/2026-04-19-finance-led-gtm.md](briefs/2026-04-19-finance-led-gtm.md)
-- **AI Finance Stack Guide:** [briefs/2026-04-16-ai-finance-ops.md](briefs/2026-04-16-ai-finance-ops.md)
-- **Competitor Intelligence (April 13):** [briefs/2026-04-13-competitor-intelligence.md](briefs/2026-04-13-competitor-intelligence.md)
+- **Executive Brief:** [briefs/2026-04-21-competitor-intelligence.md](briefs/2026-04-21-competitor-intelligence.md)
+- **Podcast Script:** [podcasts/2026-04-21-competitor-intelligence.md](podcasts/2026-04-21-competitor-intelligence.md)
+- **Last Competitor Brief (Apr 13):** [briefs/2026-04-13-competitor-intelligence.md](briefs/2026-04-13-competitor-intelligence.md)
+- **Weekly Synthesis (Apr 20):** [briefs/2026-04-20-weekly-synthesis.md](briefs/2026-04-20-weekly-synthesis.md)
 - **GitHub Repository:** research-agent (main branch)

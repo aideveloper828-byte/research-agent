@@ -11,6 +11,15 @@
 - **Trullion blog (trullion.com/blog)** — Useful for ASC 606/842 vendor perspective; verify claims with customer references
 - **CFO Dive MIT/Stanford study** — AI cuts close time by 7.5 days; high-quality academic reference via practitioner publication
 
+## New Sources Added 2026-04-21
+- **AppFolio Newsroom (appfolio.com/newsroom)** — Primary source for AppFolio product announcements; Realm-X Performers, AI agents, 2026 Benchmark Report. Tier 1.
+- **GlobeNewswire (globenewswire.com)** — Press release aggregator; Entrata 100-agent launch (Mar 24), AppFolio 2026 Benchmark Report confirmed here. Good for date-stamped announcements.
+- **Yardi Press Releases (yardi.com/news/press-releases)** — Primary source for Yardi product launches; Claude connector, MH Manager, Virtuoso agent launch all confirmed here. Tier 1.
+- **Real Estate News (realestatenews.com)** — RealPage post-DOJ analysis ("Turning the Page") — good long-form editorial on RealPage strategy. Tier 2.
+- **Multifamily Dive (multifamilydive.com)** — Industry trade publication. RealPage fintech hire, DOJ settlement follow-up. Tier 2.
+- **Rent Manager Blog (rentmanager.com)** — Primary source for Rent Manager Q1 2026 release notes and integrations periodical. Tier 1 for Rent Manager news.
+- **Investing.com Transcripts** — AppFolio Q4 2025 earnings call transcript source. Good for direct management commentary. Tier 2.
+
 ## New Sources Added 2026-04-17
 - **Buildium 2026 State of Property Management Industry Report (buildium.com)** — Annual survey-based industry report; 2026 edition covers AI adoption (58%), fraud trends (75%), retention gap (63% target vs. 58% actual), cost pressures. High quality, large sample.
 - **CBRE U.S. Real Estate Market Outlook 2026 (cbre.com)** — Authoritative multifamily market data; Tier 1 for vacancy and rent growth benchmarks
